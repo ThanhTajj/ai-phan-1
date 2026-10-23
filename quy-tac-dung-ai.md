@@ -1,0 +1,5 @@
+- Không gửi dữ liệu quan trọng
+- Xóa đoạn chat + báo cáo ngay khi lỡ gửi dữ liệu quan trọng
+- Che log trước khi hỏi
+- Chat với prompt tốt
+- Review diff
