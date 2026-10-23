@@ -1,6 +1,3 @@
-# Kết quả:
-https://chatgpt.com/c/6adb19b1-c590-83ec-872c-b8661bfaa1c8
-
 # PROMPT 1:
 ## Prompt:
 Role: Bạn là Senior Node.js Developer.
